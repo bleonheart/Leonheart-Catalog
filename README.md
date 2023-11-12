@@ -21,4 +21,4 @@ For a trouble-free experience, we provide robust support. Need assistance, have 
 
 # Terms of Service
 
-For users of our systems, please review our [Terms of Service](https://github.com/bleonheart/Leonheart-Catalog/blob/main/termsofservice.md) for a clear understanding of guidelines and expectations.
+For users of our systems, please review our [Terms of Service](https://github.com/bleonheart/Leonheart-Catalog/blob/main/utility/termsofservice.md) for a clear understanding of guidelines and expectations.
