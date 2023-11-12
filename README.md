@@ -1,8 +1,10 @@
-# Personal Catalog
+# Welcome to My Catalog of Garry's Mod Creations!
 
-Welcome to my personal catalog featuring a variety of Garry's Mod creations crafted by me.
+Dive into a world of Garry's Mod wonders, meticulously crafted by yours truly. These creations are designed to elevate your gaming experience to new heights.
 
-Explore systems seamlessly integrated with popular frameworks:
+## Discover Seamless Integration
+
+Explore systems seamlessly integrated with renowned frameworks:
 
 - [Lilia](https://github.com/Lilia-Framework/Lilia)
 - [Nutscript](https://github.com/NutScript/NutScript)
@@ -11,14 +13,17 @@ Explore systems seamlessly integrated with popular frameworks:
 
 ## Quick Access Menu
 
-[Check Our Index With all the Containers of the catalog]()
-## Support That Counts
+Looking for a quick overview of all the catalog containers? [Check out our comprehensive index here](https://github.com/bleonheart/Leonheart-Catalog/blob/main/utility/index.md).
 
-For a trouble-free experience, we provide robust support. Need assistance, have suggestions, or just want to chat? Connect with us:
+## Support That Matters
+
+Your experience matters! For a seamless journey, our robust support is here to assist you. Whether you need help, have suggestions, or simply want to chat, connect with us:
 
 - **Discord:** @liliaplayer
 - [Lilia Discord](https://discord.gg/XCPXjuQXpT)
 
-# Terms of Service
+# Explore Our Terms of Service
 
-For users of our systems, please review our [Terms of Service](https://github.com/bleonheart/Leonheart-Catalog/blob/main/utility/termsofservice.md) for a clear understanding of guidelines and expectations.
+For users of our systems, please take a moment to review our [Terms of Service](https://github.com/bleonheart/Leonheart-Catalog/blob/main/utility/termsofservice.md). This document outlines clear guidelines and expectations, ensuring a smooth and enjoyable interaction with our creations.
+
+Embark on an adventure filled with creativity and innovation. Your Garry's Mod experience begins here!
