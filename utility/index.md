@@ -8,8 +8,6 @@
 
 [MafiaRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/content/mafiarp.md)
 
-[MetroRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/content/metrorp.md)
-
 [StarWarsRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/content/swrp.md)
 
 [GTarkov Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/content/tarkov.md)
@@ -21,7 +19,5 @@
 [Lilia Systems](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/lilia.md)
 
 [Helix Systems](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/helix.md)
-
-[DarkRP Systems](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/darkrp.md)
 
 [Nutscript Systems](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/nutscript.md)

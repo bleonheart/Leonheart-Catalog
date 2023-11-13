@@ -13,7 +13,7 @@ The Provider retains all rights, title, and interest in and to the Product, incl
 
 ### 3. Payment and Refunds
 
-All purchases of the Product are non-refundable. User agrees to pay the specified amount for the Product, and no refunds will be provided, except as required by law.
+All purchases of the Product are non-refundable. User agrees to pay the specified amount for the Product, and no refunds will be provided.
 
 ### 4. Support
 
