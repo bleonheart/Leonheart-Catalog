@@ -1,3 +1,0 @@
-# SovietRP
-
-## Contents

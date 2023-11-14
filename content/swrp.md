@@ -1,3 +1,0 @@
-# SWRP
-
-## Contents
