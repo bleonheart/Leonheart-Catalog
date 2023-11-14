@@ -14,8 +14,6 @@
 
 [MedievalRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/medieval.md)
 
-[SovietRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/stalker.md)
-
 [WashingtonRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/washington.md)
 
 [Standalone Systems](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone.md)

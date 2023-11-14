@@ -57,7 +57,6 @@
 - EFT HUD - Adds a EFT HUD similar to the ingame one.
 
 - EFT Corpses - Makes your corpse lootable when you die
-
 - Food - Adds Hunger and Thrist alongside effects
 
 - JmodEFT - Allow compatiblity between [JMOD EFT](https://steamcommunity.com/sharedfiles/filedetails/?id=2804625575) and Lilia items
@@ -177,6 +176,8 @@
 - Revive System - Adds a system that downs you until you bleed out on death
 
 - Cinematic Text - Adds a cinematic text that can pop-up on request
+
+- Vending Machines - Adds Vending Machines that sell specific items
 
 - Trunks - Adds Car Trunks
 
