@@ -1,3 +1,5 @@
+# Standalone Content List
+
 - Wiretaps - Adds wiretaps that can be used to eavesdrop conversations
 
 - WarTable - Adds a Table for combat strategy with interactable features
