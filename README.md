@@ -2,15 +2,6 @@
 
 Dive into a world of Garry's Mod wonders, meticulously crafted by yours truly. These creations are designed to elevate your gaming experience to new heights.
 
-## Discover Seamless Integration
-
-Explore systems seamlessly integrated with renowned frameworks:
-
-- [Lilia](https://github.com/Lilia-Framework/Lilia)
-- [Nutscript](https://github.com/NutScript/NutScript)
-- [Helix](https://github.com/NebulousCloud/helix)
-- [DarkRP](https://github.com/FPtje/DarkRP)
-
 ## Quick Access Menu
 
 Looking for a quick overview of all the catalog containers? [Check out our comprehensive index here](https://github.com/bleonheart/Leonheart-Catalog/blob/main/utility/index.md).
