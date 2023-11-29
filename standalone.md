@@ -193,7 +193,7 @@
 
 - Organs - Adds automatically generated organs that gives buffs/debuffs
 
-- Blowout - Adds Blowout Similar to Nutscript
+- Blowout - Adds Blowout Similar to Stalker
 
 - Addictions - Adds addictions with negative side effects
 
