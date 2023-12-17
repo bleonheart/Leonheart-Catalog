@@ -1,5 +1,10 @@
 # Catalog Index
 
+## Standalone Systems
+
+[Standalone Systems](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone.md)
+
+## Bundles
 [1942RP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/1942rp.md)
 
 [FalloutRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/falloutrp.md)
@@ -8,12 +13,4 @@
 
 [GTarkov Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/tarkov.md)
 
-[SovietRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/sovietrp.md)
-
-[StarWarsRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/swrp.md)
-
-[MedievalRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/medieval.md)
-
 [WashingtonRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/washington.md)
-
-[Standalone Systems](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone.md)

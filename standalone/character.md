@@ -1,0 +1,32 @@
+# Character Systems
+
+- **Food** - Adds Hunger and Thirst alongside effects
+- **Radiation** - Acts like Fallout 76, reducing your HP and substituting it with Radiation
+- **Fallout Drugs** - Several Buffs and Debuffs aiming to mimic Fallout Drugs
+- **Mafia Drugs** - Adds Drug Bricks that need to be processed and shipped from a black market vendor
+- **EFT Injuries** - Add Several Injuries like leg breaking & bleeding, alongside limb health
+- **Languages** - Adds Languages that can be learnt
+- **Anims** - Adds the following animations that can be used: Attention, Timed Salute, At Ease, Cross Arms, Salute, Surrender
+- **Squads** - Adds a squad system
+- **Bonemerge System** - Adds a bonemerge system that allows for different clothes to be worn on different parts of the body
+- **Reputation System** - All NPCs attached to a faction are neutral unless the player displays allegiance to enemy by dressing their clothes or personally becoming their enemy
+- **ID System** - Adds an ID system that can show several informations about a player
+- **Party Tiers** - Adds Party Tiers to be displayed on a character
+- **Medals** - Adds Standard 1942RP Medals
+- **Warrants** - Adds warrants that display on a player
+- **Tying** - Adds Handcuffs that make you restrained. You can search, drag and gag/blindfold with them
+- **Looting** - Adds looting across the map
+- **Wiretaps** - Adds wiretaps that can be used to eavesdrop conversations
+- **Crafting** - Adds Indepth Crafting that requires several crafting tables
+- **Bank Robbery** - Adds a bank that can be robbed
+- **Indepth Armors** - Change your entire model, modify your run/walk speed and jump height, allows you to take no damage on fall, percentage resistances, radiation immunity, foostep sounds & Visual Overlays
+- **EFT Corpses** - Makes your corpse lootable when you die
+- **Marketplace** - Adds a global marketplace where people can sell their things
+- **Map** - Adds top view map of the map
+- **Character List** - A system that allows for character listing
+- **Lockpicking** - Adds Lockpicks to incentivize criminal roleplay
+- **Phone** - Adds payphones that can be used to Direct Message People
+- **Radio** - Adds radios with frequencies that allow you to speak both via text or speech
+- **Serial Numbers** - Adds Serial Numbers that can be looked at by police
+- **Jukeboxes** - They play from a [web server](http://fallout.fm)
+- **Typewriter** - Adds a typewriter for printing Google docs
