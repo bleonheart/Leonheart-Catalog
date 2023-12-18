@@ -1,34 +1,29 @@
 # Terms of Service (TOS) Agreement
 
+This Terms of Service ("Agreement") constitutes a legally binding contract between Leonheart ("Provider," "we," "us," or "our") and the user ("User," "you," or "your"). By accessing or utilizing our non-refundable virtual piece of code ("Product"), you expressly agree to adhere to and be bound by the terms outlined in this Agreement.
 
-This Terms of Service ("Agreement") is entered into by and between Leonheart ("Provider," "we," "us," or "our") and the user ("User," "you," or "your"). By accessing or using our non-refundable virtual piece of code ("Product"), you agree to be bound by this Agreement.
+## 1. License
 
-### 1. License
+The Provider grants the User a non-exclusive, non-transferable license to employ the Product for personal purposes. This license is contingent upon the conditions detailed in this Agreement and does not confer ownership of the Product.
 
-The Provider grants the User a non-exclusive, non-transferable license to use the Product for personal or commercial purposes. This license is limited to the terms specified in this Agreement and does not constitute ownership of the Product.
+## 2. Ownership
 
-### 2. Ownership
+All rights, title, and interest in and to the Product, including intellectual property rights, remain the exclusive property of the Provider. The act of purchasing the Product does not constitute a transfer of ownership.
 
-The Provider retains all rights, title, and interest in and to the Product, including all intellectual property rights. User acknowledges that no transfer of ownership is made by purchasing the Product.
+## 3. Payment and Refunds
 
-### 3. Payment and Refunds
+All transactions involving the Product are deemed final and non-refundable. Upon acquiring the Product, you are in agreement with the specified payment amount, and no refunds will be provided.
 
-All purchases of the Product are non-refundable. User agrees to pay the specified amount for the Product, and no refunds will be provided.
+## 4. Support
 
-### 4. Support
+The Provider will make reasonable efforts to provide support for the Product. However, the provision of support is entirely at the discretion of the Provider and is provided free of charge. Users must request support as needed.
 
-The Provider will make reasonable efforts to provide support for the Product. Support is provided at the sole discretion of the Provider and may be subject to additional fees.
+## 6. Limitation of Liability
 
-### 5. Warranty Disclaimer
+The Provider shall not be held liable for any indirect, incidental, special, consequential, or punitive damages, nor for any loss of profits or revenues.
 
-The Product is provided "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+## 7. Contact Information
 
-### 6. Limitation of Liability
+For inquiries related to this Agreement, please contact us on Discord under the username @liliaplayer.
 
-In no event shall the Provider be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues.
-
-### 7. Contact Information
-
-For questions about this Agreement, please contact us at discord under the username @liliaplayer.
-
-By accessing or using the Product, you acknowledge that you have read, understood, and agree to be bound by this Agreement.
+By accessing or utilizing the Product, you acknowledge that you have thoroughly read, comprehended, and willingly agreed to abide by the terms stipulated in this Agreement.
