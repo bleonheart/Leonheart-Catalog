@@ -19,6 +19,7 @@
 - **Wiretaps** - Adds wiretaps that can be used to eavesdrop conversations
 - **Crafting** - Adds Indepth Crafting that requires several crafting tables
 - **Bank Robbery** - Adds a bank that can be robbed
+- **Faction Menu** - Adds a menu for kicking characters out of faction and inviting players
 - **Indepth Armors** - Change your entire model, modify your run/walk speed and jump height, allows you to take no damage on fall, percentage resistances, radiation immunity, foostep sounds & Visual Overlays
 - **EFT Corpses** - Makes your corpse lootable when you die
 - **Marketplace** - Adds a global marketplace where people can sell their things
