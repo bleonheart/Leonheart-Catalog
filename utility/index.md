@@ -5,15 +5,15 @@ Click the links below to be redirected:
 
 The catalog is divided into five categories:
 
-- [**General Mechanics**](): A diverse array of mechanics, ranging from passive to active ones. This category includes various features designed to help run a server and keep it active.
+- [**General Mechanics**](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/mechanics.md): A diverse array of mechanics, ranging from passive to active ones. This category includes various features designed to help run a server and keep it active.
 
-- [**Talkable NPCs**](): Submodules tied to a framework of talkable NPCs, offering alternative dialogue and optional voice line outputs.
+- [**Talkable NPCs**](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/npcs.md): Submodules tied to a framework of talkable NPCs, offering alternative dialogue and optional voice line outputs.
 
-- [**Management**](): Management modules aimed at assisting admins with tasks, including NPC spawns, daily rewards, and other minor management features.
+- [**Management**](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/management.md): Management modules aimed at assisting admins with tasks, including NPC spawns, daily rewards, and other minor management features.
 
-- [**HUDs/UIs**](): Various user interfaces designed to enhance the visual appeal of your game mode.
+- [**HUDs/UIs**](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/ui.md): Various user interfaces designed to enhance the visual appeal of your game mode.
 
-- [**Compatibility**](): Various modules to implement compatibility with non-Lilia native content.
+- [**Compatibility**](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/compatibility.md): Various modules to implement compatibility with non-Lilia native content.
 
 ---
 
