@@ -1,27 +1,33 @@
-# NPC Framework
+## Talkable NPCs
 
-- **Housing System** -  Adds houses that can be bought 
+- **Bodyguard System**: Adds a mechanic where you can hire security guards whose job is to protect you.
 
-- **Banker** - Adds banking with several function
+- **Property Seller**: Adds houses that can be bought. The NPC sells them.
 
-- **Black Market Vendor** - Provides an NPC that can spawn items around certain parts of the map
+- **Banker**: Adds three NPCs:
 
-- **Car Dealer** - Adds a Car Dealer
+  - **Paycheck Retriever**: Where you get your salary.
+  - **Bank Manager**: Where you create your account.
+  - **Bank Teller**: Where you manage your bank accounts.
 
-- **CityWorker Hirer** - Adds Compatibility to [CityWorker](https://www.gmodstore.com/market/view/darkrp-city-worker)
+- **Black Market Vendor**: Provides an NPC that can deliver items to certain parts of the map.
 
-- **Bounty Hunter** -  Adds a Bounty Hunter that provides bounties
+- **Car Dealer**: Adds a Car Dealer that allows buying and selling cars.
 
-- **Jailer** -   Adds a Jailer NPC
+- **Bounty Hunter**: Adds a Bounty Hunter that provides bounties.
 
-- **Mechanic** -  Adds an NPC designed to fix cars
+- **Jailer**: Adds a Jailer NPC that allows jailing players for a determined time.
 
-- **Taxis** -  Adds a Taxi Job
+- **Mechanic**: Adds an NPC designed to hire you for a faction made to fix cars.
 
-- **Delivery** -  Adds a Delivery Job
+- **Police**: Adds an NPC designed to manage police-related activities such as recruitment and crime reports.
 
-- **Intergalatic Taxi** -  Adds a taxi NPC that can teleport you
+- **Taxis**: Adds an NPC designed to hire you for a Taxi Job that allows you to drive around for money.
 
-- **Recruitment NPC** -  A NPC that can recruit to X faction
+- **Delivery**: Adds a Delivery Job where you go around delivering packages in a car.
 
-- **Help NPC** -  Adds an NPC with informations about the server
+- **Intergalactic Taxi**: Adds a taxi NPC that can teleport you to certain locations, like a Fast Travel.
+
+- **Recruitment NPC**: An NPC that can recruit you to a specific faction.
+
+- **Help NPC**: Adds an NPC with information about the server.

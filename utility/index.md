@@ -2,29 +2,18 @@
 
 Click the links below to be redirected:
 
----
 
-## Standalone Modules
+The catalog is divided into five categories:
 
-- [Character Modules](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/character.md)
-- [Gathering Modules](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/gathering.md)
-- [Management Modules](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/management.md)
-- [NPC Modules](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/npcs.md)
-- [UI Modules](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/ui.md)
-- [Voting Modules](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/voting.md)
-- [Weapon Base Compatibility](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/weapons.md)
-- [General Addon Compatibility](https://github.com/bleonheart/Leonheart-Catalog/blob/main/standalone/compatibility.md)
+- [**General Mechanics**](): A diverse array of mechanics, ranging from passive to active ones. This category includes various features designed to help run a server and keep it active.
 
----
+- [**Talkable NPCs**](): Submodules tied to a framework of talkable NPCs, offering alternative dialogue and optional voice line outputs.
 
-## Bundles
+- [**Management**](): Management modules aimed at assisting admins with tasks, including NPC spawns, daily rewards, and other minor management features.
 
-Discover comprehensive bundles for different roleplaying scenarios:
+- [**HUDs/UIs**](): Various user interfaces designed to enhance the visual appeal of your game mode.
 
-- [1942RP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/1942rp.md)
-- [FalloutRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/falloutrp.md)
-- [MafiaRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/mafiarp.md)
-- [WashingtonRP Schema](https://github.com/bleonheart/Leonheart-Catalog/blob/main/bundles/washington.md)
+- [**Compatibility**](): Various modules to implement compatibility with non-Lilia native content.
 
 ---
 
